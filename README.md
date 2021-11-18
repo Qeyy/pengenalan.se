@@ -1,2 +1,2 @@
-# pengenalan.se
+# pengenalan.txt
 buat la apa apa
